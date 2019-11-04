@@ -30,20 +30,6 @@ We provide supplemental material for new NILMTK users. Please report any bugs in
 
 * More notes are about to follow!
 
-Please be so kind as to cite our paper in case you're using SynD for research:
-
-```
-@article{klemenjak2020synd,
-  title={},
-  author={},
-  journal={},
-  volume={},
-  pages={},
-  year={},
-  publisher={}
-}
-```
-
 ## Stay updated!
 
 * Follow Christoph Klemenjak on [Twitter](https://twitter.com/CKlemenjak) or read latest [Blog Posts](https://klemenjak.github.io/)
