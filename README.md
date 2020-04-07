@@ -14,7 +14,8 @@ As related Machine Learning problems, research and development requires a suffic
 | Sampling Rate | 5 Hz    |
 | Scope | residential NILM   |
 | Compatible to NILMTK? |  Yes   |
-| Is SynD public? | [Download SynD here.](https://docs.google.com/forms/d/e/1FAIpQLSeDYgj1ljwLb65WEhpcygzvjm2NQo4fWZ5z9tTB_RjZHqHVwQ/viewform?usp=sf_link)|
+| Where can I learn more about SynD? |  [Read the paper here.](https://www.nature.com/articles/s41597-020-0434-6)   |
+| Is SynD public? | [Download SynD here.](https://springernature.figshare.com/collections/SynD_A_Synthetic_Energy_Dataset_for_Non-Intrusive_Load_Monitoring_in_Households/4716179)|
 
 With SynD, we introduce a synthetic energy dataset with focus on residential buildings. We release 180 days of synthetic power data on aggregate level (i.e. mains) and individual appliances. SynD is the result of a custom simulation process that relies on power traces of real household appliances.
 
@@ -37,4 +38,5 @@ We provide supplemental material for new NILMTK users. Please report any bugs in
 
 ## History
 
+* April 2020: SynD goes public!
 * October 2019: Repository goes live!
